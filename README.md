@@ -2,6 +2,19 @@
 
 ## Overview
 
+👥 Team Members
+
+    Tural Mammadli
+    Tural Asgarov
+    Rza Mirzayev
+
+📌 What’s This App About?
+
+Weddings involve a lot of moving parts—guest lists, RSVPs, budgets, and more. Our goal is to create an easy-to-use platform that helps couples keep everything in one place, reducing stress and making the planning process smooth and enjoyable.
+
+📄 Project Report
+📑 https://docs.google.com/document/d/1UvPmUDsrvLCEIT5NieUSTxgQaRbkNYvM/edit?usp=sharing&ouid=103696701979092113311&rtpof=true&sd=true
+
 This project is a Wedding Manager application designed to streamline the wedding planning process. It features a React frontend (`wedding-manager-frontend`) and a Spring Boot backend (`wedding-manager`) using a PostgreSQL database.
 
 The system aims to minimize manual errors, simplify event preparation, and enhance the experience for couples, vendors, and administrators.
