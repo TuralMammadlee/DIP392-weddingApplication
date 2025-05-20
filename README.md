@@ -58,5 +58,3 @@ The system aims to minimize manual errors, simplify event preparation, and enhan
 *   They will register and log in based on their role (Couple, Vendor, Admin).
 *   Based on their role, they will access features like the dashboard, guest list management, venue booking, etc., through the user interface.
 *   The frontend communicates with the backend APIs to fetch and save data.
-
-*(For more detailed user interaction based on roles and features, please refer to a more specific user-guide if available within the project documentation.)* 
