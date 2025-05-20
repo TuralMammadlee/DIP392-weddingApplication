@@ -4,7 +4,7 @@
 
 This project is a Wedding Manager application designed to streamline the wedding planning process. It features a React frontend (`wedding-manager-frontend`) and a Spring Boot backend (`wedding-manager`) using a PostgreSQL database.
 
-The system aims to minimize manual errors, simplify event preparation, and enhance the experience for couples, vendors, and administrators like Abel.
+The system aims to minimize manual errors, simplify event preparation, and enhance the experience for couples, vendors, and administrators.
 
 ## Project Structure
 
