@@ -4,10 +4,15 @@
 
 👥 Team Members
 
-    Tural Mammadli
-    Tural Asgarov
-    Rza Mirzayev
+    Tural Mammadli (221ADB166),role: backend development
+    Tural Asgarov (221ADB123), role: backend development
+    Rza Mirzayev (221ADB213), role: database integration 
+    Khayal Aghazada (221ADB119), role: frontend development
+    Sadulla Abdukodirov (221ADB187), role: frontend development
+    Ahmad Ughurluzada (211ADB063), role: UI design, database integration
 
+    Presentation video link: https://youtu.be/l-RL4OJSVU8
+    Demo video link: https://youtu.be/ZwpBoCZn4Ew
 📌 What’s This App About?
 
 Weddings involve a lot of moving parts—guest lists, RSVPs, budgets, and more. Our goal is to create an easy-to-use platform that helps couples keep everything in one place, reducing stress and making the planning process smooth and enjoyable.
